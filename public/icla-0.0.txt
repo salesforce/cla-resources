@@ -21,7 +21,7 @@ Open Source Contribution Terms and Conditions
 3.3 You represent that none of Your Contributions includes any third party copyrights, patents, trade secrets,
 licenses or other restrictions.
 
-3.4 If  You  are  an  individual  employed  by  another  individual  or  a  legal  entity,  You  represent  that  either  Your  employer has waived any of its rights in Your Contributions or that you have received permission to make Contributions on behalf of Your employer.
+3.4 If  You  are  an  individual  employed  by  another  individual  or  a  legal  entity,  You  represent  that  Your  employer has waived any of its rights in Your Contributions.
 
 3.5 If  you  are  a  legal  entity,  You  represent  further  that  each  employee  of  the  Corporation  designated  on  Schedule A below (or in a subsequent written modification to that Schedule) is authorized to submit Contributions on behalf of the  Corporation.
 
